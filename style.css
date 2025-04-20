@@ -10,7 +10,7 @@ body{
 
 .isi{
     width: 300px;
-    box-shadow: 8px 8px 8px #181818;
+    box-shadow: 8px 8px 8px rgba(18, 18, 18, 0.9);
     border: 12px solid navy;
     padding: 48px;
 }

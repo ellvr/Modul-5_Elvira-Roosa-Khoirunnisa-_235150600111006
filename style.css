@@ -1,35 +1,23 @@
-body {
-    background-color: #6699ff;
+body{
+    background-color:  #6699ff;
 }
 
-.judul {
+.judul{
     color: white;
+    text-shadow: 2px 2px 2px #181818;
     font-size: 32px;
-    font-weight: bold;
-    text-shadow: 2px 2px 4px #181818;
 }
 
-.isi {
-    background-color: #6699ff;
+.isi{
     width: 300px;
-    padding: 48px;
+    box-shadow: 8px 8px 8px #181818;
     border: 12px solid navy;
-    margin-top: 32px;
-    box-shadow: 12px 12px 16px rgba(0, 0, 0, 0.8);
+    padding: 48px;
 }
 
-.isi h2 {
-    font-size: 20px;
+.isi h2{
     color: white;
-    font-weight: bold;
 }
-
-.isi ul {
-    color: #181818;
-    padding-left: 32px;
+.isi li{
     font-family: Arial, Helvetica, sans-serif;
-}
-
-.isi ul li {
-    margin-bottom: 8px;
 }
